@@ -1,3 +1,4 @@
+[![DSHIO/T 10](https://dshio.org/badge/std.svg)](https://dshio.org/10/) [![deepseekbase](https://deepseekbase.com/badge/dsh-welding.svg)](https://deepseekbase.com/plugins/dsh-welding/)
 <p align="center"><strong>dsh-welding — 焊接参数与缺陷排查</strong></p>
 
 按工艺和板厚给电流范围/保护气/预热，按缺陷给原因与处理。
